@@ -34,18 +34,18 @@ Escreva trechos de códigos que justiquem a necessidade da existencia dos temas 
 0. Métodos abstratos
    [o]()
 0. Sobrescrita de métodos (override)
-   [!]()
+   [espaco]()
 0. Sobrecarga de métodos (method overloading)
-   []()
+   [d]()
 0. Parâmetros opcionais em métodos
-   []()
+   [a]()
 0. Parâmetros padrão
-   []()
+   [espaco]()
 0. Herança simples
-   []()
+   [s]()
 0. Cadeia de herança
-   []()
+   [i]()
 0. Tratamento de exceções (throw, try, catch)
-   []()
+   [l]()
 0. Classes e herança de classes de erro
-   []()
+   [vafilho]()
